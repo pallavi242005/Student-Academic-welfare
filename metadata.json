@@ -1,0 +1,6 @@
+{
+  "name": "Student Academic Dashboard",
+  "description": "An all-in-one student dashboard featuring an interactive timetable, study session Pomodoro tracker, alarm and exam notification systems, offline backup, and direct Google Calendar integration to sync assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
